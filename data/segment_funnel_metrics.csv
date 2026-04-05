@@ -1,0 +1,15 @@
+segment_type,segment_value,product_views,add_to_carts,checkout_starts,purchases,view_to_cart_rate,cart_to_checkout_rate,checkout_to_purchase_rate,overall_purchase_rate
+device_type,Desktop,1778,606,390,195,34.08,64.36,50.0,10.97
+device_type,Mobile,2500,907,512,232,36.28,56.45,45.31,9.28
+device_type,Tablet,722,260,159,73,36.01,61.15,45.91,10.11
+traffic_source,Direct,988,387,242,119,39.17,62.53,49.17,12.04
+traffic_source,Email,493,179,118,60,36.31,65.92,50.85,12.17
+traffic_source,Organic Search,1246,452,280,144,36.28,61.95,51.43,11.56
+traffic_source,Paid Search,1028,363,208,82,35.31,57.3,39.42,7.98
+traffic_source,Referral,464,160,93,45,34.48,58.13,48.39,9.7
+traffic_source,Social,781,232,120,50,29.71,51.72,41.67,6.4
+region,Central,993,340,177,83,34.24,52.06,46.89,8.36
+region,East,998,364,226,103,36.47,62.09,45.58,10.32
+region,North,985,345,209,94,35.03,60.58,44.98,9.54
+region,South,996,364,233,109,36.55,64.01,46.78,10.94
+region,West,1028,360,216,111,35.02,60.0,51.39,10.8
